@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>תפילות ליד הנרות - חנוכה</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            direction: rtl;
+            text-align: right;
+        }
+        header {
+            background-color: #ffcc00;
+            color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: #fff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1, h2 {
+            color: #444;
+        }
+        ul {
+            padding: 0;
+            list-style: none;
+        }
+        li {
+            margin: 10px 0;
+        }
+        .footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #ffcc00;
+            margin-top: 20px;
+        }
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>תפילות מיוחדות ליד הנרות - חנוכה</h1>
+    </header>
+
+    <div class="container">
+        <h2>הדלקת הנרות</h2>
+        <p>הינני מכוון לחווה הנרות בכוונת להדליקתם ברכה ובדרישות.</p>
+
+        <h2>תפילה ליד הנרות</h2>
+        <ul>
+            <li>אלוקינו הו' אלוקי אבותינו או אלוהינו.</li>
+            <li>נרות חנוכה - נרות שלום מאיר.</li>
+            <li>תפילות שעל חנוכה מומלצות לקרא בליל החנוכייה.</li>
+        </ul>
+
+        <p>אספרו מנורה אור את התפילות שליד הנרות והתמידו בהרבת חנוכה.</p>
+    </div>
+
+    <div class="footer">
+        <p>שנה טובה לכל בית ישראל!</p>
+    </div>
+</body>
+</html>
